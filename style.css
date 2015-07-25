@@ -19,5 +19,7 @@
 
 .inicio{
 	text-align: center;
-	background-color: yellow;
+	background-color: brown;
+	display: inline-block;
+	
 }
