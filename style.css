@@ -16,4 +16,21 @@
 .nav-pills{
 	text-align: center;
 }
-
+#inicio{
+	width: 90%;
+	height: 500px;
+	border:1px solid black;
+	margin:auto;
+}
+#quien{
+	width: 90%;
+	height: 500px;
+	border:1px solid black;
+	margin:auto;
+}
+#precio{
+	width: 90%;
+	height: 500px;
+	border:1px solid black;
+	margin:auto;
+}
