@@ -16,6 +16,7 @@
 .nav-pills{
 	text-align: center;
 }
+<<<<<<< HEAD
 
 .inicio{
 	text-align: center;
@@ -23,3 +24,23 @@
 	display: inline-block;
 	
 }
+=======
+#inicio{
+	width: 90%;
+	height: 500px;
+	border:1px solid black;
+	margin:auto;
+}
+#quien{
+	width: 90%;
+	height: 500px;
+	border:1px solid black;
+	margin:auto;
+}
+#precio{
+	width: 90%;
+	height: 500px;
+	border:1px solid black;
+	margin:auto;
+}
+>>>>>>> 4a5d2f34b3d92f682fbd45e481fb5c92d1d5b81c
